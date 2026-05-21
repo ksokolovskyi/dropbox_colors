@@ -1,5 +1,7 @@
 # Dropbox Colors
 
+https://github.com/user-attachments/assets/3043e25d-1f9f-42c5-bcfc-07f08bd63b67
+
 This demo is made with [Flutter][flutter].
 
 This project was inspired by the [Color page][dropbox-color] from the [Dropbox Brand Guidelines][dropbox-brand] website.
